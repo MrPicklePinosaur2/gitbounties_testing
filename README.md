@@ -2,4 +2,4 @@
 # my readme
 
 
-lol I fixed ur bug :)
+i have fixed your issue, good day!
