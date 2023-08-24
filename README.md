@@ -2,6 +2,4 @@
 # my readme
 
 
-lol
-
-resolve #3
+lol I fixed ur bug :)
